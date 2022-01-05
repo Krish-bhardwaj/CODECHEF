@@ -1,0 +1,1 @@
+{"name":"Local: ANDORUNI","url":"c:\\Users\\krish\\Desktop\\MY_GITHUB\\CODECHEF\\ANDORUNI.cpp","tests":[{"id":1641396080761,"input":"3\n2\n1 3\n3\n2 7 1\n4\n4 6 7 2","output":"1\n3\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\krish\\Desktop\\MY_GITHUB\\CODECHEF\\ANDORUNI.cpp","group":"local","local":true}

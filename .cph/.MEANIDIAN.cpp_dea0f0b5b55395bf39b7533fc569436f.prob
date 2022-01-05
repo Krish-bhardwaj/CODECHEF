@@ -1,0 +1,1 @@
+{"name":"Local: MEANIDIAN","url":"c:\\Users\\krish\\Desktop\\MY_GITHUB\\CODECHEF\\MEANIDIAN.cpp","tests":[{"id":1641399491407,"input":"3\n3\n1 2 3\n4\n1 1 3 3\n5\n1 1000000000 1 1000000000 1","output":"0\n4\n500000002"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\krish\\Desktop\\MY_GITHUB\\CODECHEF\\MEANIDIAN.cpp","group":"local","local":true}
