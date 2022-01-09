@@ -1,4 +1,5 @@
 # CODECHEF
+Complete ❌
 * [HS08TEST](https://www.codechef.com/problems/HS08TEST)
 * [IOI1803](https://www.codechef.com/problems/IOI1803)
 * [GRGUY](https://www.codechef.com/problems/GRGUY)
@@ -10,7 +11,7 @@
 * [GAME2048](https://www.codechef.com/problems/GAME2048)
 * [CRNG2048](https://www.codechef.com/problems/CRNG2048)
 
-------cont...
+------cont......
 * []()
 * []()
 * []()
