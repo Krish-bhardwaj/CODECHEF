@@ -1,0 +1,1 @@
+{"name":"Local: PERMXORSUM","url":"c:\\Users\\krish\\Desktop\\MY_GITHUB\\CODECHEF\\PERMXORSUM.cpp","tests":[{"id":1643471208457,"input":"5\n1\n2\n3\n4\n29012022","output":"0\n6\n6\n20\n841697449540506"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\krish\\Desktop\\MY_GITHUB\\CODECHEF\\PERMXORSUM.cpp","group":"local","local":true}

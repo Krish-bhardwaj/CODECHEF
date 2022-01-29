@@ -1,0 +1,1 @@
+{"name":"Local: SUMPARITY","url":"c:\\Users\\krish\\Desktop\\MY_GITHUB\\CODECHEF\\SUMPARITY.cpp","tests":[{"id":1641999114905,"input":"3\n1 11\n1 2\n74120341 829182732","output":"Odd\nEven\nImpossible"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\krish\\Desktop\\MY_GITHUB\\CODECHEF\\SUMPARITY.cpp","group":"local","local":true}
